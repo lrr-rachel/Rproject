@@ -1,2 +1,2 @@
 # Rproject
-startup R project for statistical computing
+startup R project and lab exercises for statistical computing
